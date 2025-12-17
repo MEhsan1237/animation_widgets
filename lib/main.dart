@@ -2,9 +2,6 @@ import 'package:all_widgets/rippleeffect/rippleeffect.dart';
 import 'package:all_widgets/screens/heroscreen2.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:get/get_core/src/get_main.dart';
-import 'package:get/get_navigation/src/root/get_material_app.dart';
-
 import 'animated_opacity/animated_opacity.dart';
 import 'animationcontainer/animationcontainer.dart';
 
