@@ -13,7 +13,7 @@ class _RippleEffectScreenState extends State<RippleEffectScreen>  with SingleTic
 
   late AnimationController _animationController;
   late Animation _animation;
-  var listNames = [100.0,150.0,200.0,250.0,300.0];
+  var listNames = [100.0,150.0,200.0,300.0,350.0];
 
   @override
   void initState() {
